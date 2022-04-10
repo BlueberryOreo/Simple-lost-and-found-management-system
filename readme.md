@@ -34,7 +34,7 @@
 
 main.py为主程序
 
-window.py为创建窗口的程序
+window.py为创建图形用户界面的程序
 
 data为存储照片和相关标签的文件夹，内含picture文件夹和data.dat
 
