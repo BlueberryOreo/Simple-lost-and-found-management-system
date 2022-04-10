@@ -26,4 +26,13 @@
 
 ## [样例程序（lcg-wow页面）](https://github.com/lcg-wow/Simple-lost-and-found-management-system)
 ## [样例程序（BlueberryOreo页面）](https://github.com/BlueberryOreo/Simple-lost-and-found-management-system)
+## 样例程序说明
 
+样例程序包含：\_\_init\_\_.py, main.py, window.py, data
+\_\_init\_\_.py为Python package管理文件
+main.py为主程序
+window.py为创建窗口的程序
+data为存储照片和相关标签的文件夹，内含picture文件夹和data.dat
+
+----
+最后更新时间：2022.4.10
