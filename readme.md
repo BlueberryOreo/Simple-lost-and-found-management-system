@@ -24,5 +24,6 @@
 
 ----
 
-## [样例程序](https://github.com/lcg-wow/Simple-lost-and-found-management-system)
+## [样例程序（lcg-wow页面）](https://github.com/lcg-wow/Simple-lost-and-found-management-system)
+## [样例程序（BlueberryOreo页面）]()
 
