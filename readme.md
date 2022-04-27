@@ -1,6 +1,6 @@
 # 题目-失物招领登记与查询系统
 
-#### 出题人：孙家扬，李承庚
+#### 出题人：孙家扬[get](https://github.com/BlueberryOreo)，李承庚[git](https://github.com/lcg-wow)
 
 ------
 
@@ -23,10 +23,6 @@
 这个程序的查询当前还限制在标签的查询。你有没有什么想法或办法，不通过标签，直接输入相关描述，返回相关的图片？
 
 ----
-
-## [样例程序（lcg-wow页面）](https://github.com/lcg-wow/Simple-lost-and-found-management-system)
-
-## [样例程序（BlueberryOreo页面）](https://github.com/BlueberryOreo/Simple-lost-and-found-management-system)
 
 ### 样例程序说明
 
