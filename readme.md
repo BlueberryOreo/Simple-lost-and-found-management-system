@@ -1,6 +1,6 @@
 # 题目-失物招领登记与查询系统
 
-#### 出题人：孙家扬[git](https://github.com/BlueberryOreo)，李承庚[git](https://github.com/lcg-wow)
+#### 出题人：孙家扬([git](https://github.com/BlueberryOreo))，李承庚([git](https://github.com/lcg-wow))
 
 ------
 
